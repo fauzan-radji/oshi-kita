@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Oshi Kita</string>
+    <string name="members_name">Nama member</string>
+    <string name="jiko">Jikoushokai-nya agak panjangan dikit, halo aku Fauzan!</string>
+    <string name="member_photo">Member Photo</string>
+    <string name="nickname">Nama Panggilan</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="fanbase">Fanbase</string>
+    <string name="generation">Generasi</string>
+    <string name="my_email">triputrafauzan@gmail.com</string>
+    <string name="my_name">Tri Putra Fauzan H. Radji</string>
+    <string name="foto_member">Foto member</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
+    <string-array name="data_fullname">
+        <item>Adzana Shaliha Alifyaa</item>
+        <item>Angelina Christy</item>
+        <item>Azizi Shafaa Asadel</item>
+        <item>Fiony Alveria Tantri</item>
+        <item>Freyanashifa Jayawardana</item>
+        <item>Gita Sekar Andarini</item>
+        <item>Marsha Lenathea Lapian</item>
+        <item>Reva Fidela Adel Pantjoro</item>
+        <item>Shani Indira Natio</item>
+        <item>Yessica Tamara</item>
+    </string-array>
+
+    <string-array name="data_nicknames">
+        <item>Ashel, Acel</item>
+        <item>Christy, Kitoy, Toya</item>
+        <item>Zee, Azizi, Zizoy, Zoya</item>
+        <item>Fiony, Pio, Ce Pio</item>
+        <item>Freya, Fre</item>
+        <item>Gita</item>
+        <item>Marsha, Matcha, Anime, Maeng</item>
+        <item>Adel, Dedel, Reva</item>
+        <item>Shani</item>
+        <item>Chika, Chikuy</item>
+    </string-array>
+
+    <string-array name="data_fanbase">
+        <item>Ashelytic</item>
+        <item>Christyzer</item>
+        <item>Zeemotion</item>
+        <item>Symfiony</item>
+        <item>Freyanation</item>
+        <item>Gitroops</item>
+        <item>MarshaOshi</item>
+        <item>Adellion</item>
+        <item>Inshanity</item>
+        <item>Never ending to Achieve Victory for Yessica (NAVY)</item>
+    </string-array>
+
+    <string-array name="data_jiko">
+        <item>Aku datang bagaikan embun pagi yang menyejukkan suasana hari, aku Ashel!</item>
+        <item>Peduli dan berbaik hati, siapakah dia? Chris.. (ty!) Halo semuanya aku Christy.</item>
+        <item>Si gadis tomboi yang semangatnya meletup-letup! Panggil aku Zee!</item>
+        <item>Seperti simfoni yang menenangkan hati, halo aku Fiony!</item>
+        <item>Gadis koleris yang suka berimajinasi, terangi harimu dengan senyuman karamelku. Halo aku Freya!</item>
+        <item>Diam bukan berarti tak memperhatikanmu. Aku Gita.</item>
+        <item>Seperti pizza yang selalu dinanti-nantikan semua orang, selalu nantikan aku ya! Halo aku Marsha!</item>
+        <item>Bagaikan kucing yang kalem tapi akan selalu memikat hati kamu! Halo semuanya aku Adel!</item>
+        <item>Semanis coklat selembut sutra. Halo aku Shani.</item>
+        <item>Memberikan kebahagiaan lewat gummy smile-ku. Halo semuanya aku Chika.</item>
+    </string-array>
+
+    <integer-array name="data_generation">
+        <item>9</item>
+        <item>7</item>
+        <item>7</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>9</item>
+        <item>8</item>
+        <item>3</item>
+        <item>7</item>
+    </integer-array>
+
+    <string-array name="data_description">
+        <item>Adzana Shaliha atau akrab dipanggil Ashel ini merupakan anggota JKT48 dari generasi kesembilan. Ashel adalah keponakan dari basis Slank, Ivanka. Gadis yang mempunyai hobi senam ini juga pernah menjadi pemandu sorak. Ashel pertama kali diperkenalkan sebagai member JKT48 pada acara Joy Kick! Tears Handshake Festival pada 1 Desember 2019. Setelah melalui tes tahap pertama dan tahap kedua sebagai syarat kenaikan kelas, Ashel dipromosikan ke Akademi Kelas A pada tanggal 25 Januari 2020. Pada 12 Maret 2021 ia dipromosikan ke tim utama JKT48.</item>
+        <item>Angelina Christy (lahir 05 Desember 2005), dikenal dengan nama Christy JKT48, adalah seorang penyanyi asal Indonesia yang tergabung sebagai anggota grup idola JKT48. Ia merupakan anggota generasi ketujuh JKT48 yang diperkenalkan pada 29 September 2018. Jikoushokai salam perkenalan dari Christy di JKT48 adalah "Peduli dan berbaik hati, siapa dia? Chriiiis-ty!". Christy memiliki basis penggemar yang disebut Christyzer.</item>
+        <item>Azizi Shafaa Asadel (lahir 16 Mei 2004), dikenal dengan nama mononim Zee JKT48, adalah seorang penyanyi dan aktris asal Indonesia yang tergabung sebagai anggota grup idola JKT48. Ia merupakan anggota generasi ketujuh JKT48 yang diperkenalkan pada 29 September 2018.</item>
+        <item>Fiony Alveria Tantri (lahir 4 Februari 2002), juga dikenal sebagai Fiony JKT48, adalah seorang penyanyi Indonesia dan anggota grup idola JKT48. Ia dikenal juga sebagai salah satu pelawak di JKT48 dikarenakan sifatnya. Ia juga terkenal dengan trio ubur-ubur bersama Zee dan Christy. Trio ini terkenal akan ilmu "filsuf" atau pertanyaan yang tak bisa dijawab dan random. Ia juga dijuluki random sebab tingkah lakunya yang tak masuk akal. Ia dan Freya sering dijuluki duo F. Ia dan Freya sering melakukan hal-hal lucu dan kocak. Diketahui, Ia kuliah di salah satu universitas di Jakarta dengan jurusan Desain Komunikasi Visual. Ia merupakan anggota generasi kedelapan JKT48 yang diperkenalkan pada 27 April 2019. Walaupun ia adalah gen kedelapan, ia sering disebut gen 7,5 sebab dekat dan menjadi salah satu center di formasi JKT48 New Era.</item>
+        <item>Raden Roro Freyanashifa Jayawardana (Jawa: ꦬꦢꦺꦤ꧀ꦬꦫ ꦦ꦳ꦿꦺꦪꦤꦯꦶꦥ꦳ꦗꦪꦮꦂꦝꦤ; pengucapan bahasa Jawa: [Radèn Rårå Frèyanaśifajåyåwardhånå]; lahir 13 Februari 2006), secara mononim dikenal sebagai Freya JKT48, adalah penyanyi dan penari asal Indonesia dan anggota grup idola JKT48 generasi ketujuh yang diperkenalkan pada 2018.</item>
+        <item>Gita Sekar Andarini (lahir 30 Juni 2001) yang dipanggil Gita (juga dikenal sebagai Gita JKT48) adalah salah seorang penyanyi Indonesia dan anggota dari grup idola JKT48[1] Jikoushokai (salam perkenalan) dari Gita di JKT48 adalah "Diam bukan berarti tidak memperhatikanmu, aku Gita!". Gita memiliki basis penggemar yang disebut Gitroops.</item>
+        <item>Marsha Lenathea Lapian (lahir 9 Januari 2006), juga dikenal sebagai Marsha JKT48, adalah seorang penyanyi Indonesia dan anggota grup idola JKT48. Ia merupakan anggota generasi kesembilan JKT48 yang diperkenalkan pada 1 Desember 2019.</item>
+        <item>Reva Fidela Adel Pantjoro (lahir di Jakarta, 14 Juli 2006) yang biasa dipanggil Adel atau Reva (juga dikenal sebagai Adel JKT48 (selama menjadi anggota JKT48) adalah salah seorang penyanyi Indonesia dan anggota JKT48 yang berasal dari Jakarta, Indonesia. Adel merupakan anggota JKT48 generasi ke-8 yang diperkenalkan pada 27 April 2019. Jikoshoukai atau salam perkenalannya adalah "Bagai kucing yang kalem, tapi selalu memikat hati kamu, hai aku Adel"</item>
+        <item>Shani Indira Natio, S.I.Kom (lahir 5 Oktober 1998), secara mononim dikenal sebagai Shani JKT48, adalah seorang penyanyi dan penari Indonesia yang merupakan anggota grup idola JKT48. Ia merupakan anggota generasi ketiga JKT48 yang terpilih menjadi Kapten bersama Jinan Safa Safira sebagai Wakil Kapten pertama JKT48 New Era sejak tanggal 18 Desember 2021. Ia mengumumkan kelulusannya saat JKT48 Summer Festival yang digelar di Tennis Outdoor Senayan pada Minggu, 2 Juli 2023.</item>
+        <item>Yessica Tamara (lahir 24 September 2002) yang akrab disapa Chika JKT48 adalah salah seorang anggota dari grup idola JKT48 dari generasi ketujuh. Sebelum restrukturisasi Chika berada di Tim KIII. Chika memiliki adik dari generasi ketujuh yaitu Angelina Christy. Jikoushokai (salam perkenalan) dari Chika di JKT48 adalah "Memberikan kebahagiaan lewat gummy smile-ku. Halo, aku Chika!". Chika memiliki basis penggemar yang disebut NAVY(Neverending to Achieve Victory for Yessica )</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ashel</item>
+        <item>@drawable/toya</item>
+        <item>@drawable/zee</item>
+        <item>@drawable/cepio</item>
+        <item>@drawable/freya</item>
+        <item>@drawable/gita</item>
+        <item>@drawable/marsha</item>
+        <item>@drawable/adel</item>
+        <item>@drawable/shani</item>
+        <item>@drawable/chika</item>
+    </integer-array>
+</resources>

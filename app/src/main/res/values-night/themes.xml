@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.OshiKita" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorSurface">@color/primary</item>
+        <item name="colorOnSurface">@color/onPrimary</item>
+        <item name="android:colorBackground">@color/backgroundNight</item>
+        <item name="colorOnBackground">@color/textNight</item>
+    </style>
+
+    <style name="Card">
+        <item name="android:backgroundTint">@color/primaryLightNight</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:textColor">@color/textNight</item>
+    </style>
+
+    <style name="Text.16.Secondary">
+        <item name="android:textColor">@color/secondaryNight</item>
+    </style>
+
+    <style name="Text.24.Secondary">
+        <item name="android:textColor">@color/secondaryNight</item>
+    </style>
+
+    <style name="Text.Secondary">
+        <item name="android:textColor">@color/secondaryNight</item>
+    </style>
+
+    <style name="Theme.RemoveSplashScreenTheme" parent="Theme.AppCompat">
+        <item name="android:colorBackground">@color/primaryLightNight</item>
+    </style>
+</resources>

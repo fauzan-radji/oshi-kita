@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/Text.24.Bold"
+            android:id="@+id/tv_generation"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/generation"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/img_photo"
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:contentDescription="@string/member_photo"
+            android:scaleType="centerCrop"
+            tools:src="@tools:sample/avatars"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_generation" />
+
+        <TextView
+            android:id="@+id/label_fullname"
+            style="@style/Text.16.Bold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/fullname"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/img_photo"
+            app:layout_constraintTop_toTopOf="@id/img_photo" />
+
+        <TextView
+            style="@style/Text.16"
+            android:id="@+id/tv_fullname"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:text="@string/fullname"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/label_fullname"
+            app:layout_constraintTop_toBottomOf="@id/label_fullname" />
+
+        <TextView
+            style="@style/Text.16.Bold"
+            android:id="@+id/label_nickname"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/nickname"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/label_fullname"
+            app:layout_constraintTop_toBottomOf="@id/tv_fullname" />
+
+        <TextView
+            style="@style/Text.16"
+            android:id="@+id/tv_nickname"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:text="@string/nickname"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/label_fullname"
+            app:layout_constraintTop_toBottomOf="@id/label_nickname" />
+
+        <TextView
+            style="@style/Text.16.Bold"
+            android:id="@+id/label_fanbase"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/fanbase"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/label_fullname"
+            app:layout_constraintTop_toBottomOf="@id/tv_nickname" />
+
+        <TextView
+            style="@style/Text.16"
+            android:id="@+id/tv_fanbase"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:text="@string/fanbase"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/label_fullname"
+            app:layout_constraintTop_toBottomOf="@id/label_fanbase" />
+
+        <TextView
+            style="@style/Text.24.Primary"
+            android:id="@+id/tv_jiko"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="32dp"
+            android:text="@string/jiko"
+            android:textAlignment="center"
+            android:textStyle="italic"
+            android:lineSpacingMultiplier="1.2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/img_photo" />
+
+        <TextView
+            style="@style/Text"
+            android:id="@+id/tv_description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="32dp"
+            android:text="@string/lorem_ipsum"
+            android:lineSpacingMultiplier="1.1"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_jiko" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

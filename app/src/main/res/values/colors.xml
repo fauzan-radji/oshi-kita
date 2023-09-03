@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#222222</color>
+    <color name="white">#ffffff</color>
+
+    <color name="primary">#e20613</color>
+    <color name="onPrimary">@color/white</color>
+    <color name="primaryLight">#e9c8ca</color>
+    <color name="primaryDark">#800007</color>
+    <color name="secondary">#3e45a8</color>
+    <color name="background">#f7e9ea</color>
+    <color name="text">#0f0606</color>
+
+    <color name="primaryLightNight">#451B1F</color>
+    <color name="secondaryNight">#ADB3FF</color>
+    <color name="backgroundNight">#0f0606</color>
+    <color name="textNight">#f7e9ea</color>
+</resources>

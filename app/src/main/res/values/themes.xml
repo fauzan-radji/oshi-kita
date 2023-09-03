@@ -1,0 +1,63 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.OshiKita" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorSurface">@color/primary</item>
+        <item name="colorOnSurface">@color/onPrimary</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorOnBackground">@color/text</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:textColor">@color/text</item>
+    </style>
+
+    <style name="Text.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.16">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Text.16.Secondary">
+        <item name="android:textColor">@color/secondary</item>
+    </style>
+
+    <style name="Text.16.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.24">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="Text.24.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.24.Primary">
+        <item name="android:textColor">@color/primary</item>
+    </style>
+
+    <style name="Text.24.Secondary">
+        <item name="android:textColor">@color/secondary</item>
+    </style>
+
+    <style name="Text.Primary">
+        <item name="android:textColor">@color/primary</item>
+    </style>
+
+    <style name="Text.Secondary">
+        <item name="android:textColor">@color/secondary</item>
+    </style>
+
+    <style name="Theme.OshiKita" parent="Base.Theme.OshiKita" />
+
+    <style name="Theme.RemoveSplashScreenTheme" parent="Theme.AppCompat">
+        <item name="android:colorBackground">@color/primaryLight</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>
